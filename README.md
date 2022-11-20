@@ -1,4 +1,4 @@
-# Lesson #3: Funde Me
+# Lesson #3: Fund Me
 My code/notes for Lesson 3 of Patrick Collins' Solidity w/ Python tutorial
 
 ### Links to Patrick Collins' Tutorial
